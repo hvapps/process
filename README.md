@@ -2,8 +2,8 @@
 
 #### Table of Contents
 1. [Core cultural values](https://github.com/hvapps/process#core-cultural-values)
-2. Tools of choice
-3. Development process
+2. [Tools of choice](https://github.com/hvapps/process#tools-of-choice)
+3. [Development process](https://github.com/hvapps/process#development-process)
 
 ___
 
