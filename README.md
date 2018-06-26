@@ -1,8 +1,6 @@
 # Process
 *Our values, tools, and development process*
 
-___
-
 #### Table of Contents
 1. [Core cultural values](https://github.com/hvapps/process#core-cultural-values)
 2. Tools of choice
@@ -20,3 +18,11 @@ Be helpful and constructive. Respect others' decisions. Communicate clearly and 
 Strive for consistent and high quality code. Be strict in code reviews. 
 #### Long term thinking
 Make decisions that will last into the future. Aim for modularity and scalability.
+
+___
+
+## Tools of choice
+
+___
+
+## Development process
