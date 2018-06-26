@@ -1,5 +1,4 @@
 # Process
-*Our values, tools, and development process*
 
 #### Table of Contents
 1. [Core cultural values](https://github.com/hvapps/process#core-cultural-values)
