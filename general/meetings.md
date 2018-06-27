@@ -8,6 +8,8 @@
 * All meetings must have an agenda.
 * Results of meetings, especially action items, should be posted to Slack immediately afterward.
 * Conference call systems should be set up to start meetings three minutes early to allow participants to join and work through any potential technical issues.
+* **Do not be late to meetings.** If you will have an unavoidable delay or cancellation, then you should tell participants in advance.  No one should ever be wondering if or when you will show up.
+* Help each other out.  Remind fellow teammates of upcoming important meetings.  Slack/text pings are highly appreciated.
 
 ## Standups and Scrums
 

@@ -16,6 +16,17 @@ Otherwise, we have accounts and are comfortable with any of the following:
 
 Try to **avoid** using Google spreadsheets for tracking tasks.
 
+## Time Tracking
+
+* We haven't found a time tracking tool that we love yet.
+* We usually set up Google spreadsheet that should be updated weekly
+
+## Invoicing
+
+* Freshbooks is awesome.  If you are subcontracting with us, it will make both of our lives easiest if you use it.
+* Invoice us as often as weekly.
+* Our policy is to pay invoices immediately, and will let you know in advance if there is some reason that can't happen.
+
 ## Version Control
 
 * Git / Github.  We recommend setting up with SSH from the command line.
