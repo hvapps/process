@@ -12,6 +12,12 @@ Strive for consistent and high quality code. Be strict in code reviews.
 #### Long term thinking
 Make decisions that will last into the future. Aim for modularity and scalability.
 
+## Meta
+
+This is an evolving process.  Please make suggestions!
+
+If you're on the team, we'll give you write access to this repository.
+
 ## General
 
 1. [Meetings](./general/meetings.md)
