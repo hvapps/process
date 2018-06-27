@@ -25,9 +25,13 @@ Try to **avoid** using Google spreadsheets for tracking tasks.
 
 We prefer to stick with vector based tools.  We can work with any of the following:
 
-* Omnigraffle
+* **Strongly Preferred:** Sketch
 * Adobe Illustrator
-* Sketch
+* Omnigraffle
+
+Wireframes
+
+* Balsamiq
 
 ## Communication
 
