@@ -6,7 +6,7 @@
 2. [Tools of choice](https://github.com/hvapps/process#tools-of-choice)
 
 ## Development Process
-3. [Code Reviews](https://github.com/hvapps/development/code_review.md)
+3. [Code Reviews](./development/code_review.md)
 
 ___
 
