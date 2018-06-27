@@ -1,16 +1,7 @@
 # Process
 
-## General
-
-1. [Core cultural values](https://github.com/hvapps/process#core-cultural-values)
-2. [Tools of choice](https://github.com/hvapps/process#tools-of-choice)
-
-## Development Process
-3. [Code Reviews](./development/code_review.md)
-
-___
-
 ## Core cultural values
+
 *These four values guide everything we do at Hudson Valley Apps.*
 #### Personal responsibility  
 Take initiative and ownership over your work. Make decisions as you see fit. Be accountable. Show up to meetings on time. 
@@ -21,10 +12,12 @@ Strive for consistent and high quality code. Be strict in code reviews.
 #### Long term thinking
 Make decisions that will last into the future. Aim for modularity and scalability.
 
-___
+## General
 
-## Tools of choice
+1. [Meetings](./general/meetings.md)
+2. [Tools of choice](./general/tools.md)
 
-___
+## Development Process
 
-## Development process
+1. [Code Standards](./development/code_standards.md)
+2. [Code Review Process](./development/code_review.md)
